@@ -41,6 +41,9 @@ cd Sentiment-Analysis
 pip install -r requirements.txt
 ```
 
+3. **Run the Notebook**:
+
+
 4. **Predict Sentiment**:
 
 ```python
